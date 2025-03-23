@@ -1,0 +1,63 @@
+sqlworkbench 
+    path set bhi hota hai 
+    root password: Dolphin@009
+
+ Libraries:
+    o pdfminer3 – A library for extracting text from PDFs, especially useful for analyzing and parsing structured documents.
+
+    o pyresparser – Extracts information (like names, skills, and education) from resumes.
+
+    o streamlit – A framework for building interactive web apps for data science and machine learning models.
+
+    o  pandas – A powerful library for data manipulation and analysis, especially for working with DataFrames.
+
+    o pafy – A library to retrieve YouTube video metadata and streams.
+
+    o plotly – A library for creating interactive visualizations like graphs and charts.
+
+    o pymysql – A library for connecting Python applications to MySQL databases.
+
+    o streamlit-tags – A custom Streamlit component for adding tag-based input fields.
+    o Pillow – A powerful library for image processing and manipulation.
+
+
+
+steps:
+- Get resume from user
+- Save the resume into the system   
+- PDF extracting
+- Resume Parsing
+- Define Skills
+
+
+
+COMPILER DESIGN
+
+Dynamic allocation of activation records is essential to implement recursion.
+
+any semantic record produced by an action routine is pushed onto the stack after the parameters are removed is called  Semantic Stack.
+
+
+   Two-pass assembler 
+
+Tasks performed in 1st pass –
+
+- Assign address to all statements (address resolution)
+
+- Save the values
+
+- Table creation , Adding literals to literal table
+
+- Allocate space for literals
+
+- Compute total length of a program
+
+ 
+
+Tasks performed in 2nd pass –
+
+- Generate object oriented code
+
+- Writing/printing assembly listing
+
+- Generate code for all load and store instruction

@@ -1,0 +1,11 @@
+pandas
+re
+nltk
+streamlit
+base64
+time
+datetime
+fitz
+joblib
+pdfplumber
+nltk

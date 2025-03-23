@@ -1,0 +1,205 @@
+Name,resume_text,Experience,Education,score
+Alice,Experienced Python developer with expertise in NLP and Machine Learning.,3 years,B.Tech in CS,85
+Bob,Java backend developer skilled in Spring Boot and Microservices.,5 years,M.Tech in CS,90
+Eve,Data scientist proficient in SQL, Python, and statistical analysis.,45
+Charlie,Front-end developer specialized in React, JavaScript, and UI/UX design.,45
+David,Cybersecurity analyst with experience in network security and penetration testing.,6 years,M.Sc in Cybersecurity,88
+Fiona,Full-stack developer with expertise in Node.js, Express, and MongoDB.,45
+George,Cloud engineer skilled in AWS, Kubernetes, and Terraform.,45
+Hannah,AI researcher with a focus on deep learning and computer vision.,7 years,Ph.D. in AI,95
+Isaac,DevOps engineer with experience in CI/CD, Docker, and Kubernetes.,45
+Jack,Mobile app developer proficient in Flutter and React Native.,3 years,B.Sc in CS,84
+Katherine,System administrator with expertise in Linux and server management.,5 years,B.Tech in IT,86
+Leo,Blockchain developer experienced in Solidity and Ethereum smart contracts.,4 years,M.Sc in Blockchain,91
+Mia,Game developer with experience in Unity and C#.,3 years,B.Sc in Game Development,83
+Noah,Big Data engineer skilled in Hadoop, Spark, and Scala.,45
+Olivia,Embedded systems engineer with expertise in IoT and microcontrollers.,4 years,B.Tech in Electronics,85
+Paul,Network engineer specializing in Cisco and Juniper network solutions.,6 years,B.Sc in Networking,87
+Quinn,Technical writer with experience in API documentation and content strategy.,4 years,B.A. in Communications,80
+Ryan,Software architect experienced in designing scalable enterprise applications.,8 years,M.Tech in CS,92
+Sophia,Machine learning engineer with expertise in TensorFlow and PyTorch.,5 years,Ph.D. in ML,94
+Tom,Database administrator skilled in MySQL, PostgreSQL, and MongoDB.,45
+Ursula,Robotics engineer with expertise in ROS and autonomous systems.,4 years,M.Sc in Robotics,89
+Victor,Computer vision specialist working with OpenCV and deep learning.,5 years,Ph.D. in CV,93
+Wendy,IoT developer experienced in Arduino and Raspberry Pi projects.,3 years,B.Sc in Embedded Systems,81
+Xander,Cloud security engineer with knowledge of IAM, firewalls, and intrusion detection.,45
+Yasmine,Product manager with experience in Agile methodologies and software development.,6 years,MBA in IT,88
+Zane,UI/UX designer skilled in Figma, Adobe XD, and user research.,45
+Ava,DevSecOps engineer focusing on security automation and compliance.,5 years,M.Sc in Cybersecurity,91
+Brian,Technical support engineer specializing in Windows and MacOS troubleshooting.,4 years,B.Sc in IT,79
+Cindy,Data engineer skilled in ETL pipelines, SQL, and Snowflake.,45
+Derek,Site reliability engineer (SRE) with expertise in Kubernetes and observability tools.,6 years,M.Tech in IT,89
+Ella,Mobile game developer experienced in Unity and Unreal Engine.,4 years,B.Sc in Game Development,82
+Frank,Hardware engineer with experience in PCB design and embedded systems.,5 years,B.Tech in Electronics,86
+Grace,Penetration tester specializing in ethical hacking and security audits.,4 years,CISSP Certification,88
+Harry,AI ethics researcher working on fairness and bias in machine learning.,5 years,Ph.D. in AI Ethics,92
+Ivy,Front-end developer skilled in Vue.js, CSS, and responsive design.,45
+James,Tech lead with expertise in system architecture and cloud infrastructure.,7 years,M.Tech in CS,95
+Kelly,Business analyst with a focus on IT strategy and process optimization.,6 years,MBA in IT,87
+Liam,Full-stack engineer with expertise in Java, Spring Boot, and Angular.,45
+Mandy,Quality assurance engineer experienced in Selenium and automated testing.,4 years,B.Sc in CS,84
+Nathan,IT consultant advising on digital transformation and software solutions.,6 years,MBA in IT,89
+Ophelia,AI chatbot developer working with NLP and conversational interfaces.,4 years,M.Tech in AI,88
+Peter,Data visualization expert skilled in Power BI and Tableau.,3 years,B.Sc in Data Science,80
+Quincy,Cyber forensic analyst specializing in digital investigations.,5 years,M.Sc in Cybersecurity,91
+Riley,Cloud-native application developer experienced in serverless architectures.,4 years,B.Tech in CS,85
+Samuel,Computer graphics engineer specializing in 3D rendering and simulations.,5 years,Ph.D. in Computer Graphics,94
+Tina,Bioinformatics researcher working on genomics and machine learning applications.,6 years,Ph.D. in Bioinformatics,93
+Umar,Game AI developer with expertise in reinforcement learning.,4 years,M.Sc in Game Development,88
+Violet,IT project manager handling software development lifecycles and agile teams.,7 years,PMP Certification,90
+William,Blockchain security analyst ensuring smart contract and DeFi security.,5 years,B.Tech in Cybersecurity,92
+Xena,Edge computing specialist optimizing real-time processing for IoT.,4 years,M.Sc in Computer Engineering,89
+Yusuf,Augmented reality (AR) developer skilled in Unity AR Foundation and Vuforia.,3 years,B.Sc in AR/VR,84
+Zara,Data privacy consultant focusing on GDPR and compliance.,5 years,MBA in Cyber Law,90
+Alice,Entry-level Python developer with basic knowledge of NLP.,1 year,B.Tech in CS,60
+Bob,Junior Java developer with limited experience in Spring Boot.,2 years,M.Tech in CS,55
+Eve,Data analyst with basic SQL and Python skills.,1 year,B.Sc in IT,58
+Charlie,Frontend intern with basic HTML, CSS, and JavaScript knowledge.,45
+David,Cybersecurity enthusiast with limited exposure to network security.,2 years,M.Sc in Cybersecurity,65
+Fiona,Junior full-stack developer with some knowledge of Node.js and MongoDB.,1 year,B.Sc in CS,62
+George,Cloud computing trainee with limited experience in AWS.,2 years,B.Tech in CS,59
+Hannah,Beginner AI researcher with basic understanding of deep learning.,1 year,Ph.D. in AI,61
+Isaac,Junior DevOps engineer with some experience in CI/CD and Docker.,2 years,M.Tech in IT,63
+Jack,Mobile app developer with limited knowledge of Flutter.,1 year,B.Sc in CS,57
+Katherine,System admin intern with minimal experience in Linux servers.,2 years,B.Tech in IT,54
+Leo,Blockchain enthusiast with introductory knowledge of Solidity.,1 year,M.Sc in Blockchain,60
+Mia,Game development trainee with basic Unity skills.,1 year,B.Sc in Game Development,56
+Noah,Junior data engineer with limited Hadoop and Spark exposure.,2 years,M.Tech in Data Science,65
+Olivia,Embedded systems student with basic IoT knowledge.,1 year,B.Tech in Electronics,53
+Paul,Entry-level network engineer with some Cisco exposure.,2 years,B.Sc in Networking,60
+Quinn,Technical writing intern with beginner-level API documentation skills.,1 year,B.A. in Communications,55
+Ryan,Junior software architect with basic understanding of system design.,2 years,M.Tech in CS,64
+Sophia,Machine learning intern with limited hands-on experience in TensorFlow.,1 year,Ph.D. in ML,66
+Tom,Database administrator trainee with beginner SQL skills.,2 years,B.Sc in CS,61
+Ursula,Robotics intern with minimal knowledge of ROS and automation.,1 year,M.Sc in Robotics,58
+Victor,Computer vision beginner with basic OpenCV knowledge.,2 years,Ph.D. in CV,67
+Wendy,IoT intern with limited hands-on experience with Arduino.,1 year,B.Sc in Embedded Systems,52
+Xander,Cloud security beginner with basic knowledge of IAM.,2 years,M.Tech in Cybersecurity,66
+Yasmine,Product management trainee with beginner-level Agile understanding.,2 years,MBA in IT,60
+Zane,UI/UX design intern with minimal Figma and Adobe XD experience.,1 year,B.Des in Interaction Design,57
+Ava,DevSecOps beginner with basic security knowledge.,2 years,M.Sc in Cybersecurity,68
+Brian,IT support trainee with limited Windows troubleshooting skills.,1 year,B.Sc in IT,55
+Cindy,Junior data engineer with basic ETL skills.,2 years,B.Tech in Data Science,63
+Derek,Junior SRE with introductory Kubernetes experience.,1 year,M.Tech in IT,62
+Ella,Game development beginner with basic Unreal Engine knowledge.,2 years,B.Sc in Game Development,60
+Frank,Hardware engineer trainee with some PCB design exposure.,1 year,B.Tech in Electronics,54
+Grace,Entry-level penetration tester with beginner ethical hacking skills.,2 years,CISSP Certification,65
+Harry,AI ethics researcher with minimal hands-on experience.,1 year,Ph.D. in AI Ethics,67
+Ivy,Junior frontend developer with some Vue.js exposure.,2 years,B.Tech in CS,59
+James,Entry-level tech lead with limited project experience.,2 years,M.Tech in CS,66
+Kelly,Business analyst trainee with basic IT process knowledge.,2 years,MBA in IT,61
+Liam,Junior full-stack engineer with beginner Spring Boot experience.,1 year,M.Sc in CS,60
+Mandy,QA intern with limited experience in Selenium and testing frameworks.,2 years,B.Sc in CS,58
+Nathan,IT consulting trainee with basic understanding of digital transformation.,2 years,MBA in IT,64
+Ophelia,AI chatbot developer with minimal NLP knowledge.,1 year,M.Tech in AI,60
+Peter,Data visualization intern with basic Tableau and Power BI skills.,2 years,B.Sc in Data Science,55
+Quincy,Cyber forensic intern with beginner digital investigation knowledge.,2 years,M.Sc in Cybersecurity,68
+Riley,Cloud-native development intern with limited serverless knowledge.,1 year,B.Tech in CS,63
+Samuel,Computer graphics beginner with basic 3D rendering knowledge.,2 years,Ph.D. in Computer Graphics,67
+Tina,Bioinformatics trainee with basic machine learning exposure.,2 years,Ph.D. in Bioinformatics,65
+Umar,Junior game AI developer with some reinforcement learning experience.,1 year,M.Sc in Game Development,60
+Violet,Project management intern with beginner Agile and Scrum knowledge.,2 years,PMP Certification,62
+William,Blockchain security trainee with basic smart contract auditing skills.,1 year,B.Tech in Cybersecurity,66
+Xena,Edge computing beginner with limited IoT optimization experience.,2 years,M.Sc in Computer Engineering,60
+Yusuf,AR developer intern with beginner Unity AR Foundation knowledge.,1 year,B.Sc in AR/VR,59
+Zara,Data privacy trainee with basic GDPR compliance knowledge.,2 years,MBA in Cyber Law,67
+Vikram,Fresher game developer with academic knowledge in Game and some project experience.,0 years,M.Sc in AI,43
+Aarav,Fresher machine learning engineer with academic knowledge in Machine and some project experience.,0 years,MCA,55
+Vivaan,Fresher network engineer with academic knowledge in Network and some project experience.,0 years,MCA,51
+Pranav,Fresher software architect with academic knowledge in Software and some project experience.,0 years,BCA,53
+Pankaj,Fresher technical writer with academic knowledge in Technical and some project experience.,0 years,B.Sc in IT,42
+Pooja,Fresher system administrator with academic knowledge in System and some project experience.,0 years,BBA in IT,40
+Ravi,Fresher frontend developer with academic knowledge in Frontend and some project experience.,0 years,M.Tech in IT,50
+Kunal,Fresher software architect with academic knowledge in Software and some project experience.,0 years,BBA in IT,43
+Kiran,Fresher database admin with academic knowledge in Database and some project experience.,0 years,M.Sc in AI,63
+Naveen,Fresher software architect with academic knowledge in Software and some project experience.,0 years,M.Tech in IT,49
+Sunil,Fresher system administrator with academic knowledge in System and some project experience.,0 years,M.Sc in AI,63
+Manish,Fresher python developer with academic knowledge in Python and some project experience.,0 years,M.Tech in IT,64
+Yash,Fresher cloud engineer with academic knowledge in Cloud and some project experience.,0 years,MCA,62
+Rahul,Fresher big data engineer with academic knowledge in Big and some project experience.,0 years,M.Tech in IT,55
+Aarav,Fresher java developer with academic knowledge in Java and some project experience.,0 years,M.Sc in AI,61
+Vishal,Fresher database admin with academic knowledge in Database and some project experience.,0 years,B.Tech in CS,61
+Pooja,Fresher machine learning engineer with academic knowledge in Machine and some project experience.,0 years,B.Sc in Data Science,63
+Nikhil,Fresher blockchain developer with academic knowledge in Blockchain and some project experience.,0 years,MCA,57
+Vivaan,Fresher mobile app developer with academic knowledge in Mobile and some project experience.,0 years,B.Tech in CS,60
+Kabir,Fresher python developer with academic knowledge in Python and some project experience.,0 years,B.Sc in Data Science,60
+Pooja,Fresher blockchain developer with academic knowledge in Blockchain and some project experience.,0 years,BCA,51
+Lokesh,Fresher game developer with academic knowledge in Game and some project experience.,0 years,B.Tech in Electronics,51
+Rajat,Fresher java developer with academic knowledge in Java and some project experience.,0 years,B.Sc in IT,50
+Ananya,Fresher system administrator with academic knowledge in System and some project experience.,0 years,B.Sc in Data Science,43
+Rohan,Fresher ai researcher with academic knowledge in AI and some project experience.,0 years,B.Sc in Data Science,64
+Sneha,Fresher big data engineer with academic knowledge in Big and some project experience.,0 years,B.Sc in Data Science,59
+Abhinav,Fresher cloud engineer with academic knowledge in Cloud and some project experience.,0 years,B.Tech in Electronics,45
+Meera,Fresher full-stack developer with academic knowledge in Full-stack and some project experience.,0 years,BBA in IT,40
+Kunal,Fresher database admin with academic knowledge in Database and some project experience.,0 years,BBA in IT,61
+Tushar,Fresher devops engineer with academic knowledge in DevOps and some project experience.,0 years,BBA in IT,60
+Sai,Fresher big data engineer with academic knowledge in Big and some project experience.,0 years,BBA in IT,56
+Sneha,Fresher cybersecurity analyst with academic knowledge in Cybersecurity and some project experience.,0 years,B.Tech in Electronics,53
+Sneha,Fresher cloud engineer with academic knowledge in Cloud and some project experience.,0 years,MCA,56
+Sahil,Fresher cloud engineer with academic knowledge in Cloud and some project experience.,0 years,M.Sc in CS,55
+Omkar,Fresher machine learning engineer with academic knowledge in Machine and some project experience.,0 years,B.Tech in CS,49
+Vikram,Fresher frontend developer with academic knowledge in Frontend and some project experience.,0 years,B.Sc in IT,62
+Rajat,Fresher ai researcher with academic knowledge in AI and some project experience.,0 years,B.Tech in CS,49
+Sai,Fresher database admin with academic knowledge in Database and some project experience.,0 years,M.Sc in AI,43
+Rajat,Fresher technical writer with academic knowledge in Technical and some project experience.,0 years,M.Sc in AI,65
+Harshit,Fresher system administrator with academic knowledge in System and some project experience.,0 years,BBA in IT,49
+Pankaj,Fresher blockchain developer with academic knowledge in Blockchain and some project experience.,0 years,B.Sc in IT,44
+Aditi,Fresher system administrator with academic knowledge in System and some project experience.,0 years,BBA in IT,57
+Rahul,Fresher java developer with academic knowledge in Java and some project experience.,0 years,M.Sc in CS,41
+Ritika,Fresher data analyst with academic knowledge in Data and some project experience.,0 years,MCA,48
+Aarav,Fresher machine learning engineer with academic knowledge in Machine and some project experience.,0 years,M.Sc in AI,46
+Rajat,Fresher embedded engineer with academic knowledge in Embedded and some project experience.,0 years,B.Tech in Electronics,54
+Alok,Fresher ai researcher with academic knowledge in AI and some project experience.,0 years,BCA,48
+Sandeep,Fresher java developer with academic knowledge in Java and some project experience.,0 years,BBA in IT,62
+Sneha,Fresher full-stack developer with academic knowledge in Full-stack and some project experience.,0 years,B.Tech in CS,58
+Kabir,Fresher software architect with academic knowledge in Software and some project experience.,0 years,B.Sc in IT,47
+Sunil,Fresher cloud engineer with academic knowledge in Cloud and some project experience.,0 years,BCA,62
+Rajat,Fresher blockchain developer with academic knowledge in Blockchain and some project experience.,0 years,B.Sc in Data Science,41
+Vivaan,Fresher big data engineer with academic knowledge in Big and some project experience.,0 years,M.Tech in IT,54
+Ishika,Fresher network engineer with academic knowledge in Network and some project experience.,0 years,M.Sc in AI,52
+Kiran,Fresher big data engineer with academic knowledge in Big and some project experience.,0 years,M.Tech in IT,45
+Gaurav,Fresher network engineer with academic knowledge in Network and some project experience.,0 years,MCA,53
+Sanya,Fresher mobile app developer with academic knowledge in Mobile and some project experience.,0 years,B.Sc in IT,56
+Ananya,Fresher python developer with academic knowledge in Python and some project experience.,0 years,M.Sc in CS,53
+Kunal,Fresher system administrator with academic knowledge in System and some project experience.,0 years,MCA,50
+Naveen,Fresher database admin with academic knowledge in Database and some project experience.,0 years,BBA in IT,45
+Rahul,Fresher software architect with academic knowledge in Software and some project experience.,0 years,B.Tech in CS,42
+Nikhil,Fresher network engineer with academic knowledge in Network and some project experience.,0 years,MCA,56
+Ishaan,Fresher game developer with academic knowledge in Game and some project experience.,0 years,M.Tech in IT,49
+Aditi,Fresher cybersecurity analyst with academic knowledge in Cybersecurity and some project experience.,0 years,M.Tech in IT,40
+Nikhil,Fresher ai researcher with academic knowledge in AI and some project experience.,0 years,B.Tech in CS,44
+Ananya,Fresher system administrator with academic knowledge in System and some project experience.,0 years,MCA,52
+Pooja,Fresher technical writer with academic knowledge in Technical and some project experience.,0 years,M.Sc in AI,64
+Ashwin,Fresher mobile app developer with academic knowledge in Mobile and some project experience.,0 years,BBA in IT,65
+Sneha,Fresher big data engineer with academic knowledge in Big and some project experience.,0 years,B.Sc in IT,54
+Ankur,Fresher blockchain developer with academic knowledge in Blockchain and some project experience.,0 years,B.Tech in Electronics,63
+Harshit,Fresher system administrator with academic knowledge in System and some project experience.,0 years,M.Tech in IT,49
+Alok,Fresher ai researcher with academic knowledge in AI and some project experience.,0 years,M.Sc in CS,51
+Ritika,Fresher system administrator with academic knowledge in System and some project experience.,0 years,M.Tech in IT,65
+Manish,Fresher game developer with academic knowledge in Game and some project experience.,0 years,BBA in IT,42
+Sanya,Fresher software architect with academic knowledge in Software and some project experience.,0 years,M.Sc in AI,43
+Manish,Fresher machine learning engineer with academic knowledge in Machine and some project experience.,0 years,M.Sc in AI,57
+Nisha,Fresher full-stack developer with academic knowledge in Full-stack and some project experience.,0 years,M.Tech in IT,65
+Vishal,Fresher python developer with academic knowledge in Python and some project experience.,0 years,BBA in IT,43
+Aarav,Fresher database admin with academic knowledge in Database and some project experience.,0 years,B.Tech in CS,52
+Ashwin,Fresher mobile app developer with academic knowledge in Mobile and some project experience.,0 years,B.Tech in Electronics,65
+Tushar,Fresher frontend developer with academic knowledge in Frontend and some project experience.,0 years,M.Sc in CS,50
+Pooja,Fresher cloud engineer with academic knowledge in Cloud and some project experience.,0 years,B.Tech in CS,60
+Ananya,Fresher cybersecurity analyst with academic knowledge in Cybersecurity and some project experience.,0 years,B.Tech in Electronics,63
+Ritika,Fresher ai researcher with academic knowledge in AI and some project experience.,0 years,B.Tech in CS,58
+Ujjwal,Fresher embedded engineer with academic knowledge in Embedded and some project experience.,0 years,MCA,62
+Pooja,Fresher frontend developer with academic knowledge in Frontend and some project experience.,0 years,MCA,63
+Ashwin,Fresher cybersecurity analyst with academic knowledge in Cybersecurity and some project experience.,0 years,BBA in IT,51
+Pooja,Fresher game developer with academic knowledge in Game and some project experience.,0 years,MCA,56
+Tanvi,Fresher machine learning engineer with academic knowledge in Machine and some project experience.,0 years,B.Sc in Data Science,45
+Jayant,Fresher frontend developer with academic knowledge in Frontend and some project experience.,0 years,M.Sc in AI,48
+Sai,Fresher system administrator with academic knowledge in System and some project experience.,0 years,BBA in IT,52
+Sneha,Fresher cloud engineer with academic knowledge in Cloud and some project experience.,0 years,B.Sc in IT,42
+Sunil,Fresher software architect with academic knowledge in Software and some project experience.,0 years,M.Sc in AI,44
+Ishika,Fresher big data engineer with academic knowledge in Big and some project experience.,0 years,M.Tech in IT,55
+Ritika,Fresher java developer with academic knowledge in Java and some project experience.,0 years,MCA,52
+Pankaj,Fresher game developer with academic knowledge in Game and some project experience.,0 years,M.Sc in AI,40
+Sunil,Fresher devops engineer with academic knowledge in DevOps and some project experience.,0 years,B.Sc in Data Science,50
+Kiran,Fresher full-stack developer with academic knowledge in Full-stack and some project experience.,0 years,MCA,49
+Rahul,Fresher data analyst with academic knowledge in Data and some project experience.,0 years,M.Tech in IT,48
+Pankaj,Fresher network engineer with academic knowledge in Network and some project experience.,0 years,BCA,53
