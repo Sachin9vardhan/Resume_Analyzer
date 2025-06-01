@@ -1,0 +1,12 @@
+streamlit
+pandas
+base64
+PyMuPDF
+joblib
+pdfplumber
+nltk
+seaborn
+matplotlib
+Pillow
+fuzzywuzzy
+scikit-learn
