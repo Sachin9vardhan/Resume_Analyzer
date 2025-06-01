@@ -1,6 +1,8 @@
 # ResumeAnalyzerNew
 Resume Analyzer Project
 
+https://resumeanalyzernew-83vctmabypv5uf6qfka7or.streamlit.app/
+
 Overview: The Resume Analyzer Project is a comprehensive tool designed to streamline the process of resume evaluation. It consists of two primary sections: the User Side and the Admin Side, each serving distinct purposes to enhance efficiency in resume screening and job application analysis.
 
 1. User Side: The User Side allows job seekers to upload their resumes in PDF format. The system processes the uploaded document and extracts key information, including:
