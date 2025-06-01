@@ -9,3 +9,4 @@ matplotlib
 Pillow
 fuzzywuzzy
 scikit-learn
+python-Levenshtein
