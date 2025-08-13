@@ -177,12 +177,14 @@ def run():
             with st.spinner("Uploading your Resume..."):
                 time.sleep(2)
 
-            save_path = os.path.join("/tmp", pdf_file.name)
+            # Save to a local temp folder instead of /tmp
+            temp_dir = "temp"
+            os.makedirs(temp_dir, exist_ok=True)
+            save_path = os.path.join(temp_dir, pdf_file.name)
             with open(save_path, "wb") as f:
                 f.write(pdf_file.getbuffer())
 
-
-            # Show PDF preview using Streamlit's built-in method
+            # Show PDF preview
             st.subheader("Resume Preview")
             st.download_button(
                label="Download Uploaded Resume",
@@ -190,11 +192,14 @@ def run():
                file_name=pdf_file.name,
                mime="application/pdf"
             )
-            st.file_uploader  # Keep uploader open
-            st.components.v1.html(
-               f'<iframe src="data:application/pdf;base64,{base64.b64encode(pdf_file.getvalue()).decode()}" width="700" height="1000" type="application/pdf"></iframe>',
-               height=1000,
-            )
+
+            # Display PDF
+            with open(save_path, "rb") as pdf_file_obj:
+                base64_pdf = base64.b64encode(pdf_file_obj.read()).decode("utf-8")
+                st.markdown(
+                    f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>',
+                    unsafe_allow_html=True,
+                )
 
          # Extract text for further processing
             resume_text = pdf_reader(save_path)
@@ -330,6 +335,7 @@ def run():
     
 
 run()   
+
 
 
 
