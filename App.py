@@ -170,9 +170,10 @@ def run():
             with st.spinner("Uploading your Resume..."):
                 time.sleep(2)
 
-            save_path = f"./Uploaded_Resumes/{pdf_file.name}"
+            save_path = os.path.join("/tmp", pdf_file.name)
             with open(save_path, "wb") as f:
                 f.write(pdf_file.getbuffer())
+
 
             show_pdf(save_path)
             resume_text = pdf_reader(save_path)
@@ -306,4 +307,5 @@ def run():
                 st.error("Wrong Username or Password")
     
     
+
 run()   
