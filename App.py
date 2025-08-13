@@ -185,7 +185,7 @@ def run():
                 f.write(pdf_file.getbuffer())
 
             # Show PDF preview
-            st.subheader("Resume Preview")
+            # st.subheader("Resume Preview")
             st.download_button(
                label="Download Uploaded Resume",
                data=pdf_file.getvalue(),
@@ -194,12 +194,12 @@ def run():
             )
 
             # Display PDF
-            with open(save_path, "rb") as pdf_file_obj:
-                base64_pdf = base64.b64encode(pdf_file_obj.read()).decode("utf-8")
-                st.markdown(
-                    f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>',
-                    unsafe_allow_html=True,
-                )
+            # with open(save_path, "rb") as pdf_file_obj:
+            #     base64_pdf = base64.b64encode(pdf_file_obj.read()).decode("utf-8")
+            #     st.markdown(
+            #         f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="700" height="1000" type="application/pdf"></iframe>',
+            #         unsafe_allow_html=True,
+            #     )
 
          # Extract text for further processing
             resume_text = pdf_reader(save_path)
@@ -335,6 +335,7 @@ def run():
     
 
 run()   
+
 
 
 
